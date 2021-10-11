@@ -38,9 +38,14 @@ AID Dataset:
 
 https://captain-whu.github.io/AID/
 
-NWPU RESISC45: 
+WHU RS19: 
 
-http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
+http://captain.whu.edu.cn/repository.html
+
+
+Optimal31
+http://crabwq.github.io/
+
 
 ## Environments
 
